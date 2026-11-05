@@ -1,0 +1,3 @@
+.ip-gallery{border-top:1px solid #b3bc9a33}.ip-track .industrial-tile{flex:1 0 140px}.ip-track .industrial-tile.is-expanded{flex:3 0 380px}.ip-track .industrial-tile>img{object-fit:contain;background:#303429}.ip-dialog .industrial-thumbnails img{aspect-ratio:3/4;object-fit:contain;background:#303429}.ip-dialog .industrial-thumbnails button{flex-basis:64px}.ip-dialog .industrial-page img{height:auto}.ip-dialog .industrial-pdf-link{font-size:14px}.ip-card-cover{display:block;width:100%;height:100%;object-fit:contain;background:#e8e6dc}@media(max-width:600px){.ip-track .industrial-tile{flex:0 0 75px}.ip-track .industrial-tile.is-expanded{flex:0 0 78vw}}
+
+.visual-card-cover{display:block;width:100%;height:100%;object-fit:contain;background:#f4f1e9}
